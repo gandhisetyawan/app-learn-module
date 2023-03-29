@@ -1,2 +1,6 @@
 github.com/gandhisetyawan/go-module-learn v1.0.0 h1:GBOkQVXqU0Pny2th9t0yLE9b4ZMEFzsnzKZqhSOyyiE=
 github.com/gandhisetyawan/go-module-learn v1.0.0/go.mod h1:0cRS3++DobkhXgpsJn6iIB0U6KGEBk4+vUdaS9N3lh8=
+github.com/gandhisetyawan/go-module-learn v1.5.0 h1:42/Cn5Enlpsb7CoZCEBDXfv7fyYlJeX4EbQxt7Njpq4=
+github.com/gandhisetyawan/go-module-learn v1.5.0/go.mod h1:0cRS3++DobkhXgpsJn6iIB0U6KGEBk4+vUdaS9N3lh8=
+github.com/gandhisetyawan/go-module-learn/v2 v2.0.0 h1:+g3X4wlmDgqv0zPQfHZ1YsxvqyO0blZRVw5eQwFBaHU=
+github.com/gandhisetyawan/go-module-learn/v2 v2.0.0/go.mod h1:NtwiYcfmOuj3hrNSCsQsVU4rRt72wy3MmyepxJsF6ng=
